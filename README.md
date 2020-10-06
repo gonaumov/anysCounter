@@ -2,7 +2,8 @@
 
 I had need to count usages of any in a TypeScript code base and 
 I did that bash script. I am sharing it now in case someone 
-has similar problem in the future. 
+has similar problem in the future. It creates report 
+where in the code base are located anys and their count. 
 
 ## How to use it? 
 
