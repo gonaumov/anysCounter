@@ -2,7 +2,7 @@
 
 I had need to count usages of any in a TypeScript code base and 
 I did that bash script. I am sharing it now in case someone 
-has similar problem in te future. 
+has similar problem in the future. 
 
 ## How to use it? 
 
